@@ -1,0 +1,1010 @@
+[
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is the capital of Cameroon?",
+        "correct_answer": "Yaoundé",
+        "incorrect_answers": [
+            "Douala",
+            "Bamenda",
+            "Maroua"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is the highest mountain in Cameroon?",
+        "correct_answer": "Mount Cameroon",
+        "incorrect_answers": [
+            "Mount Manengouba",
+            "Mount Kupe",
+            "Mount Oku"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is the official language of Cameroon?",
+        "correct_answer": "French",
+        "incorrect_answers": [
+            "English",
+            "German",
+            "Spanish"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is the largest ethnic group in Cameroon?",
+        "correct_answer": "Fulani",
+        "incorrect_answers": [
+            "Bamileke",
+            "Beti",
+            "Bamoun"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is the most important river in Cameroon?",
+        "correct_answer": "Sanaga River",
+        "incorrect_answers": [
+            "Wouri River",
+            "Nyong River",
+            "Logone River"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is the most important crop in Cameroon?",
+        "correct_answer": "Cocoa",
+        "incorrect_answers": [
+            "Coffee",
+            "Rubber",
+            "Palm oil"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is the most important mineral in Cameroon?",
+        "correct_answer": "Oil",
+        "incorrect_answers": [
+            "Tin",
+            "Manganese",
+            "Iron ore"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is the most popular sport in Cameroon?",
+        "correct_answer": "Football",
+        "incorrect_answers": [
+            "Basketball",
+            "Volleyball",
+            "Rugby"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is the most famous Cameroonian athlete?",
+        "correct_answer": "Samuel Eto'o",
+        "incorrect_answers": [
+            "Roger Milla",
+            "N'Golo Kanté",
+            "Alex Song"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is the most famous Cameroonian musician?",
+        "correct_answer": "Manu Dibango",
+        "incorrect_answers": [
+            "Salif Keita",
+            "Angelique Kidjo",
+            "Youssou N'Dour"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is a member of which of the following organizations?",
+        "correct_answer": "United Nations",
+        "incorrect_answers": [
+            "African Union",
+            "Commonwealth of Nations",
+            "Economic Community of West African States (ECOWAS)"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is divided into how many administrative regions?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "12",
+            "18",
+            "20"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon has a population of about how many people?",
+        "correct_answer": "20 million",
+        "incorrect_answers": [
+            "25 million",
+            "30 million",
+            "35 million"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon's GDP per capita is about how much?",
+        "correct_answer": "$1,000",
+        "incorrect_answers": [
+            "$2,000",
+            "$3,000",
+            "$4,000"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon's official currency is the:",
+        "correct_answer": "CFA franc",
+        "incorrect_answers": [
+            "Nigerian naira",
+            "Central African franc",
+            "Ghanaian cedi"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is located in which of the following regions of Africa?",
+        "correct_answer": "West Africa",
+        "incorrect_answers": [
+            "Central Africa",
+            "East Africa",
+            "Southern Africa"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon shares its borders with how many countries?",
+        "correct_answer": "5",
+        "incorrect_answers": [
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is home to which of the following UNESCO World Heritage Sites?",
+        "correct_answer": "Mount Cameroon",
+        "incorrect_answers": [
+            "Dja Faunal Reserve",
+            "Manovo-Gounda St. Floris National Park",
+            "all of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is a major producer of which of the following commodities?",
+        "correct_answer": "Oil",
+        "incorrect_answers": [
+            "Cocoa",
+            "Coffee",
+            "all of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is a popular tourist destination for which of the following activities?",
+        "correct_answer": "Hiking",
+        "incorrect_answers": [
+            "Camping",
+            "Bird watching",
+            "all of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is home to which of the following ethnic groups?",
+        "correct_answer": "Fulani",
+        "incorrect_answers": [
+            "Bamileke",
+            "Beti",
+            "all of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon's climate is characterized by which of the following?",
+        "correct_answer": "Tropical rainforest",
+        "incorrect_answers": [
+            "Savanna",
+            "Mountainous",
+            "all of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon's flag is divided into which of the following colors?",
+        "correct_answer": "Green, yellow, red",
+        "incorrect_answers": [
+            "Blue, white, red",
+            "Black, yellow, green",
+            "none of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon's national animal is the:",
+        "correct_answer": "Lion",
+        "incorrect_answers": [
+            "Elephant",
+            "Leopard",
+            "none of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon's national dish is the:",
+        "correct_answer": "Fufu",
+        "incorrect_answers": [
+            "Ndole",
+            "Soya",
+            "none of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon was a German colony until:",
+        "correct_answer": "1914",
+        "incorrect_answers": [
+            "1916",
+            "1918",
+            "1920"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon became independent in:",
+        "correct_answer": "1960",
+        "incorrect_answers": [
+            "1961",
+            "1962",
+            "1963"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is a unitary state, meaning that:",
+        "correct_answer": "it is divided into several semi-autonomous regions",
+        "incorrect_answers": [
+            "it is a single, centralized government",
+            "it is ruled by a military junta",
+            "none of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is a member of the Francophonie, which is an organization of:",
+        "correct_answer": "French-speaking countries",
+        "incorrect_answers": [
+            "African countries",
+            "countries that were once colonized by France",
+            "all of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is a landlocked country, meaning that:",
+        "correct_answer": "it borders the ocean",
+        "incorrect_answers": [
+            "it is surrounded by other countries",
+            "it has no coastline",
+            "none of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is home to which of the following endangered species?",
+        "correct_answer": "Cross River gorilla",
+        "incorrect_answers": [
+            "Drill monkey",
+            "Pygmy hippopotamus",
+            "all of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is a popular destination for ecotourism, which is tourism that:",
+        "correct_answer": "focuses on the natural environment",
+        "incorrect_answers": [
+            "is sustainable",
+            "benefits local communities",
+            "all of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon has a number of festivals that celebrate its culture, including:",
+        "correct_answer": "the Ebolowa Arts Festival",
+        "incorrect_answers": [
+            "the Bamenda Cultural Festival",
+            "the Buea Cultural Festival",
+            "all of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cameroon is a country with a rich history, dating back to:",
+        "correct_answer": "the 10th century",
+        "incorrect_answers": [
+            "the 15th century",
+            "the 18th century",
+            "the 20th century"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was the first president of Cameroon?",
+        "correct_answer": "Ahmadou Ahidjo",
+        "incorrect_answers": [
+            "Paul Biya",
+            "El Hadj Omar Bongo Ondimba",
+            "Denis Sassou Nguesso"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When did Ahmadou Ahidjo become president of Cameroon?",
+        "correct_answer": "1960",
+        "incorrect_answers": [
+            "1961",
+            "1962",
+            "1963"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When did Paul Biya become president of Cameroon?",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+            "1983",
+            "1984",
+            "1985"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many times has Paul Biya been re-elected as president of Cameroon?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Paul Biya's political party?",
+        "correct_answer": "Cameroon People's Democratic Movement (CPDM)",
+        "incorrect_answers": [
+            "Cameroon National Union (CNU)",
+            "Union of Democratic Forces of Cameroon (UDC)",
+            "Social Democratic Front (SDF)"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where was Ahmadou Ahidjo born?",
+        "correct_answer": "Garoua",
+        "incorrect_answers": [
+            "Maroua",
+            "Yaoundé",
+            "Douala"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where was Paul Biya born?",
+        "correct_answer": "Garoua",
+        "incorrect_answers": [
+            "Maroua",
+            "Yaoundé",
+            "Douala"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Ahmadou Ahidjo's highest educational attainment?",
+        "correct_answer": "High school diploma",
+        "incorrect_answers": [
+            "College degree",
+            "Master's degree",
+            "Doctorate degree"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Paul Biya's highest educational attainment?",
+        "correct_answer": "High school diploma",
+        "incorrect_answers": [
+            "College degree",
+            "Master's degree",
+            "Doctorate degree"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Ahmadou Ahidjo's religion?",
+        "correct_answer": "Muslim",
+        "incorrect_answers": [
+            "Christian",
+            "Traditional African religion",
+            "None of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Paul Biya's religion?",
+        "correct_answer": "Muslim",
+        "incorrect_answers": [
+            "Christian",
+            "Traditional African religion",
+            "None of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the capital of Cameroon?",
+        "correct_answer": "Yaoundé",
+        "incorrect_answers": [
+            "Douala",
+            "Bamenda",
+            "Maroua"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the largest city in Cameroon?",
+        "correct_answer": "Yaoundé",
+        "incorrect_answers": [
+            "Douala",
+            "Bamenda",
+            "Maroua"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the official language of Cameroon?",
+        "correct_answer": "French",
+        "incorrect_answers": [
+            "English",
+            "German",
+            "Spanish"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the currency of Cameroon?",
+        "correct_answer": "CFA franc",
+        "incorrect_answers": [
+            "Nigerian naira",
+            "Central African franc",
+            "Ghanaian cedi"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was the first president of Cameroon?",
+        "correct_answer": "Ahmadou Ahidjo",
+        "incorrect_answers": [
+            "Paul Biya",
+            "El Hadj Omar Bongo Ondimba",
+            "Denis Sassou Nguesso"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When did Ahmadou Ahidjo become president of Cameroon?",
+        "correct_answer": "1960",
+        "incorrect_answers": [
+            "1961",
+            "1962",
+            "1963"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When did Paul Biya become president of Cameroon?",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+            "1983",
+            "1984",
+            "1985"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many times has Paul Biya been re-elected as president of Cameroon?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Paul Biya's political party?",
+        "correct_answer": "Cameroon People's Democratic Movement (CPDM)",
+        "incorrect_answers": [
+            "Cameroon National Union (CNU)",
+            "Union of Democratic Forces of Cameroon (UDC)",
+            "Social Democratic Front (SDF)"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where was Ahmadou Ahidjo born?",
+        "correct_answer": "Garoua",
+        "incorrect_answers": [
+            "Maroua",
+            "Yaoundé",
+            "Douala"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where was Paul Biya born?",
+        "correct_answer": "South region",
+        "incorrect_answers": [
+            "Maroua",
+            "Center region",
+            "Douala"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Ahmadou Ahidjo's highest educational attainment?",
+        "correct_answer": "High school diploma",
+        "incorrect_answers": [
+            "College degree",
+            "Master's degree",
+            "Doctorate degree"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Paul Biya's highest educational attainment?",
+        "correct_answer": "College degree",
+        "incorrect_answers": [
+            "High school diploma",
+            "Master's degree",
+            "Doctorate degree"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Ahmadou Ahidjo's religion?",
+        "correct_answer": "Muslim",
+        "incorrect_answers": [
+            "Christian",
+            "Traditional African religion",
+            "None of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Paul Biya's religion?",
+        "correct_answer": "Christian",
+        "incorrect_answers": [
+            "Muslim",
+            "Traditional African religion",
+            "None of the above"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the capital of Cameroon?",
+        "correct_answer": "Yaoundé",
+        "incorrect_answers": [
+            "Douala",
+            "Bamenda",
+            "Maroua"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the largest city in Cameroon?",
+        "correct_answer": "Yaoundé",
+        "incorrect_answers": [
+            "Douala",
+            "Bamenda",
+            "Maroua"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the official language of Cameroon?",
+        "correct_answer": "French",
+        "incorrect_answers": [
+            "English",
+            "German",
+            "Spanish"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the currency of Cameroon?",
+        "correct_answer": "CFA franc",
+        "incorrect_answers": [
+            "Nigerian naira",
+            "Central African franc",
+            "Ghanaian cedi"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where was Samuel Eto'o born?",
+        "correct_answer": "Yaoundé, Cameroon",
+        "incorrect_answers": [
+            "Douala, Cameroon",
+            "Garoua, Cameroon",
+            "Bamenda, Cameroon"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "When was Samuel Eto'o born?",
+        "correct_answer": "1978",
+        "incorrect_answers": [
+            "1979",
+            "1980",
+            "1981"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Samuel Eto'o's nickname?",
+        "correct_answer": "Little Eto'o",
+        "incorrect_answers": [
+            "Big Eto'o",
+            "Eto'o Fils",
+            "The King"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Samuel Eto'o's favorite position?",
+        "correct_answer": "Striker",
+        "incorrect_answers": [
+            "Winger",
+            "Midfielder",
+            "Defender"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which club did Samuel Eto'o start his professional career with?",
+        "correct_answer": "Real Madrid",
+        "incorrect_answers": [
+            "Barcelona",
+            "Mallorca",
+            "Chelsea"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which club did Samuel Eto'o win the Champions League with the most times?",
+        "correct_answer": "Barcelona",
+        "incorrect_answers": [
+            "Inter Milan",
+            "Chelsea",
+            "Real Madrid"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which club did Samuel Eto'o score the most goals for in his career?",
+        "correct_answer": "Barcelona",
+        "incorrect_answers": [
+            "Inter Milan",
+            "Chelsea",
+            "Real Madrid"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many African Player of the Year awards has Samuel Eto'o won?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "5",
+            "6",
+            "7"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many times has Samuel Eto'o been capped for the Cameroon national team?",
+        "correct_answer": "100",
+        "incorrect_answers": [
+            "110",
+            "120",
+            "130"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which team did Samuel Eto'o captain to the Olympic gold medal in 2000?",
+        "correct_answer": "Cameroon",
+        "incorrect_answers": [
+            "Spain",
+            "France",
+            "Brazil"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many goals did Samuel Eto'o score in his career?",
+        "correct_answer": "300",
+        "incorrect_answers": [
+            "350",
+            "400",
+            "450"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which club did Samuel Eto'o win the Copa del Rey with the most times?",
+        "correct_answer": "Barcelona",
+        "incorrect_answers": [
+            "Real Madrid",
+            "Sevilla",
+            "Atlético Madrid"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which club did Samuel Eto'o win the FIFA Club World Cup with the most times?",
+        "correct_answer": "Barcelona",
+        "incorrect_answers": [
+            "Inter Milan",
+            "Chelsea",
+            "Real Madrid"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which club did Samuel Eto'o score the most goals in a single season?",
+        "correct_answer": "Barcelona",
+        "incorrect_answers": [
+            "Inter Milan",
+            "Chelsea",
+            "Real Madrid"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who is the only African player to have won the Champions League with three different clubs?",
+        "correct_answer": "Samuel Eto'o",
+        "incorrect_answers": [
+            "Didier Drogba",
+            "Mohamed Salah",
+            "Yaya Touré"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who is the all-time leading scorer for the Cameroon national team?",
+        "correct_answer": "Samuel Eto'o",
+        "incorrect_answers": [
+            "Roger Milla",
+            "Patrick Mboma",
+            "Emmanuel Eboué"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Samuel Eto'o's net worth?",
+        "correct_answer": "$100 million",
+        "incorrect_answers": [
+            "$150 million",
+            "$200 million",
+            "$250 million"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Samuel Eto'o's current occupation?",
+        "correct_answer": "Retired soccer player",
+        "incorrect_answers": [
+            "Businessman",
+            "Politician",
+            "Philanthropist"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Samuel Eto'o's favorite charity?",
+        "correct_answer": "UNICEF",
+        "incorrect_answers": [
+            "Save the Children",
+            "Doctors Without Borders",
+            "World Vision"
+        ]
+    },
+    {
+        "category": "General Knowledge (Cameroun)",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Samuel Eto'o's favorite food?",
+        "correct_answer": "Fufu",
+        "incorrect_answers": [
+            "Ndole",
+            "Soya",
+            "Eba"
+        ]
+    }
+]
